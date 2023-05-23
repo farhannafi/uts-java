@@ -1,0 +1,7 @@
+8, 6, 6, 9, 2, 4, 6, 3, 5, 11, 
+wildan, zaroh, debora, ardhito, BOOLI, 
+Nama         : Farhan nafi
+NIM          : 22201022
+Usia         : 20
+Tinggi badan : 160.3
+ alamat      : jl janti barat
